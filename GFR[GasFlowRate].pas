@@ -1,7 +1,7 @@
 // PARAMS
 //  - ORIFICE [inch]
 //  - SPECIFIC GRAVITY [air=1]
-//  - temperatrureERATERUE [f]
+//  - TEMPERATERUE [f]
 //  - PRESSURE [psig]
 //  - DIFF [diff]
 //  - CONSTANT1 - constant1 => 4.026
